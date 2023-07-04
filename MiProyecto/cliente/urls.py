@@ -7,3 +7,5 @@ app_name='cliente'
 urlpatterns = [
     path('', index, name='index'),
 ]
+
+
